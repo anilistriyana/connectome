@@ -1,13 +1,13 @@
 ---
+title: Graph of Connected Articles
+date: 2021-05-01 00:00:00 Z
 type: project
-title: "Graph of Connected Articles"
-date: 2021-05-01
 tags:
-  - Tutorial
+- Tutorial
 authors:
-  - KausalFlow
+- KausalFlow
 links:
-  - tutorials/link-articles.md
+- tutorials/link-articles.md
 weight: 1
 ---
 

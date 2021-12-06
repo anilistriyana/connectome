@@ -1,27 +1,27 @@
 ---
-title: "The Elements of Statistical Learning"
+title: The Elements of Statistical Learning
+date: 2020-04-27 11:22:46 Z
 images:
-  - "/projects/undraw_dark_analytics_re_2kvy.svg"
+- "/projects/undraw_dark_analytics_re_2kvy.svg"
 categories:
-  - Statistical Learning
+- Statistical Learning
 tags:
-  - Introduction
-  - Machine Learning
+- Introduction
+- Machine Learning
 links:
-  -
-summary: "Just read the book"
-members: # the makers of the tool
-  - name: Member BB
-    link: https://github.com
-    description:
+- 
+summary: Just read the book
+members:
+- name: Member BB
+  link: https://github.com
+  description: 
 coordinators:
-  - name: LM
-    link:
-    description:
-date: 2020-04-27T13:22:46+02:00
+- name: LM
+  link: 
+  description: 
 status: Done
 sections:
-  - esl
+- esl
 ---
 
 ## What books are we reading?

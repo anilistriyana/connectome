@@ -4,7 +4,6 @@ excerpt: Typography
 search_omit: false
 ---
 
-
 * ToC
 {:toc}
 

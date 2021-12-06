@@ -1,12 +1,12 @@
 ---
 title: ABOUT
+date: 2016-03-24 00:00:00 Z
 layout: page
 excerpt: ''
-date: 2016-03-24
 image:
-  feature:
-  credit:
-  creditlink:
+  feature: 
+  credit: 
+  creditlink: 
 ---
 
 We host reading clubs and seminars on neuroscience, machine learning, complex networks and intelligence.

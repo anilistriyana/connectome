@@ -1,15 +1,15 @@
 ---
+title: Link Articles
+date: 2021-05-01 00:00:00 Z
 type: project
-title: "Link Articles"
-date: 2021-05-01
 tags:
-  - Tutorial
+- Tutorial
 authors:
-  - KausalFlow
+- KausalFlow
 links:
-  - snm/single-neuron-model.md
-  - snm/limitations-srm-contd-and-coding.md
-  - tags/gauss-markov-theorem
+- snm/single-neuron-model.md
+- snm/limitations-srm-contd-and-coding.md
+- tags/gauss-markov-theorem
 weight: 4
 ---
 

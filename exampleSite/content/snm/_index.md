@@ -1,4 +1,5 @@
 ---
-title: "Spiking Neural Network"
+title: Spiking Neural Network
 type: project
 ---
+

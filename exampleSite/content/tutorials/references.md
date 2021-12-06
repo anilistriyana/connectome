@@ -1,17 +1,17 @@
 ---
+title: Adding References
+date: 2021-05-08 00:00:00 Z
 type: project
-title: "Adding References"
-date: 2021-05-08
 authors:
-  - KausalFlow
+- KausalFlow
 tags:
-  - Tutorial
+- Tutorial
 links:
-  - snm/single-neuron-model.md
-  - snm/limitations-srm-contd-and-coding.md
+- snm/single-neuron-model.md
+- snm/limitations-srm-contd-and-coding.md
 references:
-  - name: "Hugo (This is a demo reference)"
-    link: "https://gohugo.com"
+- name: Hugo (This is a demo reference)
+  link: https://gohugo.com
 weight: 6
 ---
 

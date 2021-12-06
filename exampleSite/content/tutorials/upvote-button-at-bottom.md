@@ -1,11 +1,11 @@
 ---
+title: Upvote Button at the Bottom of the Page
+date: 2021-05-01 00:00:00 Z
 type: project
-title: "Upvote Button at the Bottom of the Page"
-date: 2021-05-01
 tags:
-  - Tutorial
+- Tutorial
 authors:
-  - KausalFlow
+- KausalFlow
 weight: 3
 ---
 

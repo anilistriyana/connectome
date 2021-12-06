@@ -1,17 +1,16 @@
 ---
+title: Single Neuron Models
+date: 2016-03-18 00:00:00 Z
 layout: notes
-title: "Single Neuron Models"
-date: 2016-03-18
 authors:
-  - ErbB4
+- ErbB4
 summary: Neuron biological properties
 type: project
 links:
-  - snm/limitations-srm-contd-and-coding.md
-  - snm/single-neuron-model.md
+- snm/limitations-srm-contd-and-coding.md
+- snm/single-neuron-model.md
 weight: 2
 ---
-
 
 ## Neuron biological properties
 

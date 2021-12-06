@@ -1,19 +1,18 @@
 ---
-title: "Limitations of spike response model and coding"
-date: 2016-03-18
+title: Limitations of spike response model and coding
+date: 2016-03-18 00:00:00 Z
 authors:
-  - OctoMiao
-  - OctoMiao Another Person
+- OctoMiao
+- OctoMiao Another Person
 summary: Review of Last Week's Reading
 references:
-  - name: References A
+- name: References A
 type: project
 links:
-  - snm/limitations-srm-contd-and-coding.md
-  - snm/single-neuron-model.md
+- snm/limitations-srm-contd-and-coding.md
+- snm/single-neuron-model.md
 weight: 3
 ---
-
 
 ## Review of Last Week's Reading
 

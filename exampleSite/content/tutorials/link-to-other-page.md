@@ -1,15 +1,15 @@
 ---
+title: Link to Other Page Using Card
+date: 2021-05-08 00:00:00 Z
 type: project
-title: "Link to Other Page Using Card"
-date: 2021-05-08
 authors:
-  - KausalFlow
+- KausalFlow
 tags:
-  - Tutorial
+- Tutorial
 links:
-  - snm/single-neuron-model.md
-  - snm/limitations-srm-contd-and-coding.md
-  - tags/gauss-markov-theorem
+- snm/single-neuron-model.md
+- snm/limitations-srm-contd-and-coding.md
+- tags/gauss-markov-theorem
 weight: 5
 ---
 

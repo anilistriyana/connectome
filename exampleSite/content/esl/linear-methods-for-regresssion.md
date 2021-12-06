@@ -1,13 +1,12 @@
 ---
-title: "Linear Methods for Regression"
-date: 2016-08-18
+title: Linear Methods for Regression
+date: 2016-08-18 00:00:00 Z
 authors:
-  - OctoMiao
+- OctoMiao
 summary: Linear regression, least squares
 type: project
 weight: 2
 ---
-
 
 ## Some Interesting Points
 

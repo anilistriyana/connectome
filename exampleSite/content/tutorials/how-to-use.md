@@ -1,11 +1,11 @@
 ---
+title: How to Use
+date: 2021-05-01 00:00:00 Z
 type: project
-title: "How to Use"
-date: 2021-05-01
 tags:
-  - Tutorial
+- Tutorial
 authors:
-  - KausalFlow
+- KausalFlow
 weight: 0
 ---
 
